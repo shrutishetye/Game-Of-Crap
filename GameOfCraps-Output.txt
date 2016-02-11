@@ -1,0 +1,177 @@
+ROUND 1
+
+run:
+Even Wager statergy
+You are left with : 1100
+You are left with : 1000
+You are left with : 900
+You are left with : 800
+You are left with : 700
+You are left with : 600
+You are left with : 700
+You are left with : 800
+You are left with : 900
+You are left with : 1000
+Martingale Wager statergy
+You are left with : 1100
+You are left with : 1000
+You are left with : 1200
+You are left with : 1300
+You are left with : 1200
+You are left with : 1400
+You are left with : 1300
+You are left with : 1500
+You are left with : 1400
+You are left with : 1200
+Reverse Martingale Wager statergy
+You are left with : 900
+You are left with : 1000
+You are left with : 800
+You are left with : 900
+You are left with : 700
+You are left with : 600
+You are left with : 500
+You are left with : 400
+You are left with : 500
+You are left with : 700
+BUILD SUCCESSFUL (total time: 0 seconds)
+
+ROUND 2
+
+run:
+Even Wager statergy
+You are left with : 1100
+You are left with : 1200
+You are left with : 1100
+You are left with : 1200
+You are left with : 1100
+You are left with : 1200
+You are left with : 1300
+You are left with : 1400
+You are left with : 1300
+You are left with : 1400
+Martingale Wager statergy
+You are left with : 900
+You are left with : 700
+You are left with : 300
+You are left with : 0
+Reverse Martingale Wager statergy
+You are left with : 900
+You are left with : 800
+You are left with : 900
+You are left with : 700
+You are left with : 600
+You are left with : 700
+You are left with : 500
+You are left with : 600
+You are left with : 400
+You are left with : 500
+BUILD SUCCESSFUL (total time: 0 seconds)
+
+ROUND 3
+
+run:
+Even Wager statergy
+You are left with : 1100
+You are left with : 1000
+You are left with : 900
+You are left with : 800
+You are left with : 700
+You are left with : 800
+You are left with : 900
+You are left with : 800
+You are left with : 900
+You are left with : 1000
+Martingale Wager statergy
+You are left with : 900
+You are left with : 700
+You are left with : 1100
+You are left with : 1200
+You are left with : 1300
+You are left with : 1400
+You are left with : 1300
+You are left with : 1100
+You are left with : 700
+You are left with : 0
+Reverse Martingale Wager statergy
+You are left with : 1100
+You are left with : 900
+You are left with : 800
+You are left with : 900
+You are left with : 700
+You are left with : 800
+You are left with : 1000
+You are left with : 600
+You are left with : 700
+You are left with : 900
+BUILD SUCCESSFUL (total time: 0 seconds)
+
+ROUND 4
+
+run:
+Even Wager statergy
+You are left with : 900
+You are left with : 800
+You are left with : 900
+You are left with : 1000
+You are left with : 900
+You are left with : 800
+You are left with : 700
+You are left with : 600
+You are left with : 700
+You are left with : 600
+Martingale Wager statergy
+You are left with : 900
+You are left with : 700
+You are left with : 1100
+You are left with : 1000
+You are left with : 1200
+You are left with : 1100
+You are left with : 900
+You are left with : 500
+You are left with : 1000
+You are left with : 1100
+Reverse Martingale Wager statergy
+You are left with : 1100
+You are left with : 900
+You are left with : 800
+You are left with : 700
+You are left with : 800
+You are left with : 600
+You are left with : 500
+You are left with : 400
+You are left with : 500
+You are left with : 300
+BUILD SUCCESSFUL (total time: 0 seconds)
+
+ROUND 5
+run:
+Even Wager statergy
+You are left with : 1100
+You are left with : 1200
+You are left with : 1300
+You are left with : 1400
+You are left with : 1300
+You are left with : 1400
+You are left with : 1300
+You are left with : 1200
+You are left with : 1100
+You are left with : 1000
+Martingale Wager statergy
+You are left with : 1100
+You are left with : 1000
+You are left with : 800
+You are left with : 400
+You are left with : 0
+Reverse Martingale Wager statergy
+You are left with : 1100
+You are left with : 900
+You are left with : 1000
+You are left with : 1200
+You are left with : 800
+You are left with : 900
+You are left with : 700
+You are left with : 600
+You are left with : 500
+You are left with : 400
+BUILD SUCCESSFUL (total time: 0 seconds)
